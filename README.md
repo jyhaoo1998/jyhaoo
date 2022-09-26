@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyhaoo
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity at UC Berkeley Extension program
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
 
